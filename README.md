@@ -1,8 +1,8 @@
 🔧 Steps:
 Create Next.js App:
 ```
-npx create-next-app@latest nextjs-crud-app
-cd nextjs-crud-app
+npx create-next-app@latest nextjs-crud-app2
+cd nextjs-crud-app2
 ```
 
 Install Dependencies:
